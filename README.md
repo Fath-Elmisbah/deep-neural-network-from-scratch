@@ -1,3 +1,3 @@
 # deep-neural-network-from-scratch
-This repository contains an implementation for fully connected neural network models with many options.
-Python language and numpy library is used. 
+This repository contains an implementation of fully connected neural network models with many options.
+Only Python language and numpy library are used. 
